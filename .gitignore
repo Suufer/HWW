@@ -1,2 +1,8 @@
-# Project exclude paths
-/target/
+# Игнорирование папки .idea
+.idea/
+
+# Игнорирование папки target
+target/
+
+# Игнорирование файлов .iml
+*.iml
